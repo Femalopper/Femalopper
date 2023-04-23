@@ -6,12 +6,19 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Femalopper&style=flat-square&color=blue" alt=""/>
-  <h2> Hi there 👋</h2>
+  <h3> Hi there 👋</h3>
 </div>
+
 
 ### :woman_technologist: About Me :
   
-I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+- :telescope: I’m studying web development and build adaptive web applications and apps.
+
+- :zap: In my free time, I solve problems on leetcode, read tech articles, develop new projects and apps, learn TypeScript.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
   
 ---
   
