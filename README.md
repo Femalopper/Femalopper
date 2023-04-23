@@ -1,10 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc3NDY2YTIyYzIwNzQ5ZmVmMTVhNDJiOGNjZmM4NDI4NWFlYjhkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/u46yCmEJMflovUGdbe/giphy.gif" width="80" height="80" frameBorder="0" class="giphy-embed" allowFullScreen/>
-</div
-
-### Hi there 👋
-  
----
+  <div id="badges">
+    <a href="your-linkedin-URL">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=Femalopper&style=flat-square&color=blue" alt=""/>
+  <h2> Hi there 👋</h2>
+</div>
 
 ### :woman_technologist: About Me :
   
@@ -29,6 +32,8 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Femalopper)](https://git.io/streak-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Femalopper&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Femalopper/Femalopper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
