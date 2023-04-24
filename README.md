@@ -14,7 +14,7 @@
   
 I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m studying web development and build adaptive web applications and apps.
+- :telescope: I’m studying web development and build adaptive web applications.
 
 - :zap: In my free time, I solve problems on leetcode, read tech articles, develop new projects and apps, learn TypeScript.
 
