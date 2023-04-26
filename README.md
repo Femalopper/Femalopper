@@ -1,10 +1,5 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc3NDY2YTIyYzIwNzQ5ZmVmMTVhNDJiOGNjZmM4NDI4NWFlYjhkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/u46yCmEJMflovUGdbe/giphy.gif" width="80" height="80" frameBorder="0" class="giphy-embed" allowFullScreen/>
-  <div id="badges">
-    <a href="your-linkedin-URL">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
   <img src="https://komarev.com/ghpvc/?username=Femalopper&style=flat-square&color=blue" alt=""/>
   <h3> Hi there 👋</h3>
 </div>
@@ -16,9 +11,9 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :telescope: I’m studying web development and build adaptive web applications.
 
-- :zap: In my free time, I solve problems on leetcode, read tech articles, develop new projects and apps, learn TypeScript.
+- :zap: In my free time, I solve problems on leetcode, read tech articles, develop new apps, learn TypeScript.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: asidorenko096@gmail.com
   
 ---
   
