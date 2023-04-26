@@ -1,5 +1,7 @@
 <div id="header" align="center">
+  <div>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc3NDY2YTIyYzIwNzQ5ZmVmMTVhNDJiOGNjZmM4NDI4NWFlYjhkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/u46yCmEJMflovUGdbe/giphy.gif" width="80" height="80" frameBorder="0" class="giphy-embed" allowFullScreen/>
+  </div>
   <img src="https://komarev.com/ghpvc/?username=Femalopper&style=flat-square&color=blue" alt=""/>
   <h3> Hi there 👋</h3>
 </div>
