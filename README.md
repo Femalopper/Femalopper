@@ -2,7 +2,7 @@
   <div>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc3NDY2YTIyYzIwNzQ5ZmVmMTVhNDJiOGNjZmM4NDI4NWFlYjhkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/u46yCmEJMflovUGdbe/giphy.gif" width="80" height="80" frameBorder="0" class="giphy-embed" allowFullScreen/>
   </div>
-  <a href="linkedin.com/in/angelina-golovenko"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.linkedin.com/in/angelina-golovenko/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <div><img src="https://komarev.com/ghpvc/?username=Femalopper&style=flat-square&color=blue" alt=""/></div>
   <h3> Hi there 👋</h3>
 </div>
